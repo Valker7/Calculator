@@ -66,7 +66,7 @@ if __name__ == '__main__':
 
 
     width = int(input("Window width: "))
-    height = int(input("Windiw height: "))
+    height = int(input("Window height: "))
 
     calculator = Calculator(width, height)
     sys.exit(app.exec_())
